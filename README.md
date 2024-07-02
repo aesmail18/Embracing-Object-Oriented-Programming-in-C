@@ -6,20 +6,17 @@ Object-oriented programming offers many benefits, including improved code reusab
 
 Implementing OOP Concepts in C
 Encapsulation
-Encapsulation is achieved by defining structures (similar to classes) that contain both data and function pointers to manipulate that data. For example:
-![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/faa0e7e2-3926-4079-bc6c-c7b5e19a5b1f)
+Encapsulation is achieved by defining structures (similar to classes) that contain both data and function pointers to manipulate that data. For example:![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/faa0e7e2-3926-4079-bc6c-c7b5e19a5b1f)
 
 
 
 Inheritance and Polymorphism
-Inheritance is mimicked by embedding structures within other structures. Polymorphism is implemented through function pointers, allowing us to call methods on different types of objects in a unified way.
-![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/57273a65-35c3-4c13-976b-2a06e7dfda79)
+Inheritance is mimicked by embedding structures within other structures. Polymorphism is implemented through function pointers, allowing us to call methods on different types of objects in a unified way.![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/57273a65-35c3-4c13-976b-2a06e7dfda79)
 
 
 
 Safe String Handling
-String operations can be a source of bugs, particularly buffer overflows. By using functions like strncpy, we ensure safe string copying:
-![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/20e15edf-ff4c-4669-aed6-a1f70c82455f)
+String operations can be a source of bugs, particularly buffer overflows. By using functions like strncpy, we ensure safe string copying:![image](https://github.com/aesmail18/Embracing-Object-Oriented-Programming-in-C/assets/48685050/20e15edf-ff4c-4669-aed6-a1f70c82455f)
 
 
 
